@@ -1,6 +1,6 @@
 <h2>wsgi</h2>
 
-A microblogging wsgi app. 
+A microblogging wsgi app. The beginnings of a small framework...specifically URL routing.
 
 <h2>Usage</h2>
 In the inner wsgi directory run: python wsgi_server.py<br>
